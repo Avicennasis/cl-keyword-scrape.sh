@@ -246,6 +246,6 @@ Issues and pull requests are welcome:
 * Please keep the script portable and avoid adding non-standard dependencies unless gated behind optional backends.
 
 ## License
-
-See `LICENSE` for details.
-
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+## Credits
+**Author:** Léon "Avic" Simmons ([@Avicennasis](https://github.com/Avicennasis))
